@@ -1,0 +1,14 @@
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/bin/Debug/net10.0/PrimeiroPROJETO
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/bin/Debug/net10.0/PrimeiroPROJETO.deps.json
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/bin/Debug/net10.0/PrimeiroPROJETO.runtimeconfig.json
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/bin/Debug/net10.0/PrimeiroPROJETO.dll
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/bin/Debug/net10.0/PrimeiroPROJETO.pdb
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/PrimeiroPROJETO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/PrimeiroPROJETO.AssemblyInfoInputs.cache
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/PrimeiroPROJETO.AssemblyInfo.cs
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/PrimeiroPROJETO.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/PrimeiroPROJETO.dll
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/refint/PrimeiroPROJETO.dll
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/PrimeiroPROJETO.pdb
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/PrimeiroPROJETO.genruntimeconfig.cache
+/Users/DS1/Documents/I2DS/AULA-01/PrimeiroPROJETO/obj/Debug/net10.0/ref/PrimeiroPROJETO.dll
