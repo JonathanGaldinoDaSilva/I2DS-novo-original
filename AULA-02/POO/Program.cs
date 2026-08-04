@@ -46,7 +46,6 @@ internal class Program
             Console.WriteLine("meu nome é ", this.nome);
         }
     }
-   
 }
 
 //
