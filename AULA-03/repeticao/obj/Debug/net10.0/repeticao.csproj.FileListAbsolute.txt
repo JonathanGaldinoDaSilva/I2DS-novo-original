@@ -1,0 +1,15 @@
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/bin/Debug/net10.0/repeticao
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/bin/Debug/net10.0/repeticao.deps.json
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/bin/Debug/net10.0/repeticao.runtimeconfig.json
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/bin/Debug/net10.0/repeticao.dll
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/bin/Debug/net10.0/repeticao.pdb
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.AssemblyInfoInputs.cache
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.AssemblyInfo.cs
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.sourcelink.json
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.dll
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/refint/repeticao.dll
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.pdb
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/repeticao.genruntimeconfig.cache
+/Users/DS1/Documents/I2DS/AULA-03/repeticao/obj/Debug/net10.0/ref/repeticao.dll
