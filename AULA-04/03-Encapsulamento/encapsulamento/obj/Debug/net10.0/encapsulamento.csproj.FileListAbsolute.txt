@@ -1,0 +1,15 @@
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/bin/Debug/net10.0/encapsulamento
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/bin/Debug/net10.0/encapsulamento.deps.json
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/bin/Debug/net10.0/encapsulamento.runtimeconfig.json
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/bin/Debug/net10.0/encapsulamento.dll
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/bin/Debug/net10.0/encapsulamento.pdb
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.AssemblyInfoInputs.cache
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.AssemblyInfo.cs
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.sourcelink.json
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.dll
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/refint/encapsulamento.dll
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.pdb
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/encapsulamento.genruntimeconfig.cache
+/Users/DS1/Documents/I2DS/AULA-04/03-Encapsulamento/encapsulamento/obj/Debug/net10.0/ref/encapsulamento.dll
