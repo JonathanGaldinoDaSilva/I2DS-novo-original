@@ -6,11 +6,11 @@
         int Nota1;
         int Nota2;
         int Nota3;
+       
+
+        Console.Write("digite o nome do aluno: ");
+        string Nome = Console.ReadLine();
         
-
-        Console.Write("Digite o nome do aluno: ");
-
-
         Console.Write("Digite a Primeira nota: ");
         Nota1 = int.Parse(Console.ReadLine());
 
@@ -24,16 +24,16 @@
 
         if(Media >= 7.0)
         {
-        Console.WriteLine("Voce foi aprovado! ");
+        Console.WriteLine( Nome + " foi aprovado! ");
         }
        else if (Media >= 5.0)
         {
             
-        Console.WriteLine("voce está de recuperacao! ");
+        Console.WriteLine( Nome +" está de recuperacao! ");
         }
         else 
         {
-           Console.WriteLine("voce está reprovado! ");
+           Console.WriteLine( Nome + " está reprovado! ");
         }
 
     }
