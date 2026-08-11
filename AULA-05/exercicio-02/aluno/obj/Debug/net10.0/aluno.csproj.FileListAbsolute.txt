@@ -1,0 +1,15 @@
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/bin/Debug/net10.0/aluno
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/bin/Debug/net10.0/aluno.deps.json
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/bin/Debug/net10.0/aluno.runtimeconfig.json
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/bin/Debug/net10.0/aluno.dll
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/bin/Debug/net10.0/aluno.pdb
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.AssemblyInfoInputs.cache
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.AssemblyInfo.cs
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.sourcelink.json
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.dll
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/refint/aluno.dll
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.pdb
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/aluno.genruntimeconfig.cache
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-02/aluno/obj/Debug/net10.0/ref/aluno.dll

@@ -1,0 +1,15 @@
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/bin/Debug/net10.0/jogo-RPG
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/bin/Debug/net10.0/jogo-RPG.deps.json
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/bin/Debug/net10.0/jogo-RPG.runtimeconfig.json
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/bin/Debug/net10.0/jogo-RPG.dll
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/bin/Debug/net10.0/jogo-RPG.pdb
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.AssemblyInfoInputs.cache
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.AssemblyInfo.cs
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.sourcelink.json
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.dll
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/refint/jogo-RPG.dll
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.pdb
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/jogo-RPG.genruntimeconfig.cache
+/Users/DS1/Documents/I2DS/AULA-05/exercicio-08/jogo-RPG/obj/Debug/net10.0/ref/jogo-RPG.dll
